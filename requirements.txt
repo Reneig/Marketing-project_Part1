@@ -1,0 +1,12 @@
+openai>=1.0.0
+google-generativeai
+anthropic
+python-dotenv
+requests
+streamlit
+pandas
+numpy
+opencv-python
+librosa
+ffmpeg
+tqdm
