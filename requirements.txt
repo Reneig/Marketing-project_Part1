@@ -5,8 +5,8 @@ python-dotenv
 requests
 streamlit
 pandas
-numpy
-opencv-python
+numpyopencv-python-headless==4.8.1.78
 librosa
 ffmpeg
 tqdm
+
